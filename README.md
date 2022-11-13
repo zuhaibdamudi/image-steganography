@@ -15,3 +15,5 @@ This project involves using Python to implement Image Steganography, which entai
 3. In the Server GUI, enter text to hide and select a PNG file to hide the data in.
 5. Client GUI will automatically open once the image has been successfully received.
 6. Click 'Decode' to reveal the hidden data.
+
+*Note: Running this will create an 'EncodedImages' directory on the Client side, and a 'RcvdImages' directory on the Server side, to store the stegano images.*
