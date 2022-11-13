@@ -1,4 +1,4 @@
-# image-steganography
+# Python Image Steganography
 
 This involves using Python to implement Image Steganography, which entails creating a GUI tool that enables a user to encode a message in an image and send it to another user over a TCP connection, where the message is then decoded.
 
